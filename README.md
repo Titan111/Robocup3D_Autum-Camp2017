@@ -17,3 +17,20 @@
 - 11:00-12:30　昼食
 
 
+## PKについて
+
+### ルール
+	1VS1で40秒間試合を行う
+
+	攻守を1セットとして5セット行う
+
+	攻撃側はstart_penalty_kicker.sh
+	守備側はstart_penalty_goalie.sh
+	をそれぞれ起動する
+
+	[参考資料](https://wiki.robocup.org/image/e/e4/Rules_RoboCupSim2017.pdf)
+
+	上記のルールを基準とし話し合いで変更を加える
+
+
+
